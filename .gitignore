@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# logs & local
+scaffold.log
+start.log
+scripts/gen.log
+.playwright-mcp/
+*.jpeg
