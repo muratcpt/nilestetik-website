@@ -24,7 +24,7 @@ const pinyon = Pinyon_Script({
   weight: "400",
 });
 
-const BASE_URL = "https://nil-estetik.vercel.app";
+const BASE_URL = "https://nilestetik.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),

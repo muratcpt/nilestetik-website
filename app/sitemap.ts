@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const BASE = "https://nil-estetik.vercel.app";
+const BASE = "https://nilestetik.vercel.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();

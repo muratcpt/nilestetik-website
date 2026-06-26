@@ -22,7 +22,7 @@ const jsonLd = {
   "@type": "BeautySalon",
   name: SALON.fullName,
   image: "/images/og-cover.jpg",
-  url: "https://nil-estetik.vercel.app",
+  url: "https://nilestetik.vercel.app",
   description:
     "Çanakkale Merkez'de saç çoğaltma, saç kıran tedavisi, cilt bakımı ve lazer epilasyon hizmeti veren güzellik merkezi.",
   telephone: SALON.phoneRaw,

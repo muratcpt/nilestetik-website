@@ -46,3 +46,5 @@ start.log
 scripts/gen.log
 .playwright-mcp/
 *.jpeg
+
+.vercel
